@@ -1,1 +1,1 @@
-dmFyIGMgPSAyOwpwcmludCgidGVzdCIpOwpwcmludCgidGVzdDIiKTsKcHJpbnQoYyk7Cg==
+print("c");
