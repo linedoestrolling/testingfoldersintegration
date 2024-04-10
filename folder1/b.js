@@ -1,5 +1,1 @@
-print("b");
-test
-
-
-ss
+ee
