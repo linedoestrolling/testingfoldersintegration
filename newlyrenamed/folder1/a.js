@@ -1,5 +1,0 @@
-print("b");
-test
-
-
-ssa
