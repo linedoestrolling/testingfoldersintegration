@@ -1,3 +1,9 @@
-evar a = 1;
+aavar a = 1;
 var b = 2;
-print("test");ssdd
+print("test");
+sa
+da
+ddda
+A
+
+aa
