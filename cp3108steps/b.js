@@ -1,4 +1,4 @@
-aavar a = 1;
+ aavar a = 1;
 var b = 2;
 print("test");
 sa
@@ -7,4 +7,4 @@ ddda
 A
 
 aa
-new
+new 
